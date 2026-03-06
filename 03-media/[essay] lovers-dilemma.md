@@ -1,20 +1,21 @@
 ---
-title: "Lovers"
+title: Lovers' Dilemma
 type: essay
 status: completed
 created: 2023-09-01
 updated: 2023-09-01
-author: [Open Machine]
-description: "Published Open Machine essay."
+author:
+  - Open Machine
+description: Published Open Machine essay.
 tags:
-  - "output/essay"
+  - output/essay
 ai-ready: true
-slug: 'lovers'
-matter: 'transmissions'
-originalAuthor: 'Vengi'
-excerpt: "One day I was laying in the grass with a book and listening to psychedelic pop songs, as one does on an improbably sunny spring day in the Pacific North West. A song came on that I had heard many times before, each time imagining these hidden feelings between individuals, prospective lovers. Certainly because I was reading _The Evolution of Cooperation_ (Axelrod, 1984) and daydreaming about Great Filters at the time, I imagined this unseen love existing between all individuals, a love lost across the entire human population, turning a sad song into an epic tragedy of societal discoordination."
-date: "2023-09-01T16:20:04.000Z"
-imagePath: "/assets/lovers/loversSkeletons.png"
+slug: lovers
+matter: transmissions
+originalAuthor: Vengi
+excerpt: One day I was laying in the grass with a book and listening to psychedelic pop songs, as one does on an improbably sunny spring day in the Pacific North West. A song came on that I had heard many times before, each time imagining these hidden feelings between individuals, prospective lovers. Certainly because I was reading _The Evolution of Cooperation_ (Axelrod, 1984) and daydreaming about Great Filters at the time, I imagined this unseen love existing between all individuals, a love lost across the entire human population, turning a sad song into an epic tragedy of societal discoordination.
+date: 2023-09-01T16:20:04.000Z
+imagePath: /assets/lovers/loversSkeletons.png
 ---
 
 _Collect this piece on_ [Mirror](https://mirror.xyz/vengist.eth/0aeIp4jDheRXectGJXKGM31GlsZaZugVPA8Sq_HY6lY)

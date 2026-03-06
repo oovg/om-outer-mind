@@ -15,7 +15,6 @@ originalTitle: "We Got Us: A Regen Hub Playbook"
 subtitle:
 originalAuthor: Benjamin Life, Kevin Owocki
 authorURL:
-tags: 
 source: 
 language: en
 uuid: 9ab5799a-a164-4583-8e63-e04827de2385

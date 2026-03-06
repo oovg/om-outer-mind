@@ -15,7 +15,6 @@ originalTitle: Walkthrough of the Green Crypto Handbook
 subtitle:
 originalAuthor: Patrick Rawson, Louise Borreani
 authorURL:
-tags: 
 source: 
 language: en
 uuid: eeda1d79-25fb-405a-a3f8-6d61560f316e

@@ -15,7 +15,6 @@ originalTitle: "dPAN's: Reimagining Collective Action in the 21st Century"
 subtitle:
 originalAuthor: Nate Suits
 authorURL:
-tags: 
 source: 
 language: en
 uuid: f831c325-a12c-49e3-9fac-e368f5e89167

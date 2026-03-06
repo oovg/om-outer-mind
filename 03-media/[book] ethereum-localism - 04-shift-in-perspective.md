@@ -15,7 +15,6 @@ originalTitle: Does organizing at the Cosmo-local level require a profound shift
 subtitle:
 originalAuthor: Marcus Barrick
 authorURL:
-tags: 
 source: 
 language: en
 uuid: 962947e6-afdf-49e7-a99f-8d04f7403131

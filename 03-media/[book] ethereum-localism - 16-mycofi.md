@@ -15,7 +15,6 @@ originalTitle: "MycoFi: Where Web3 meets Emergency Finance for Communities"
 subtitle:
 originalAuthor: Scott Morris
 authorURL:
-tags: 
 source: 
 language: en
 uuid: 25e21a38-f066-4c7f-bb18-1859ce9403bb

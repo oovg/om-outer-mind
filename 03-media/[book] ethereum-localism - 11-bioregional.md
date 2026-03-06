@@ -15,7 +15,6 @@ originalTitle: Bioregional Organizing Networks
 subtitle:
 originalAuthor: Andrea Farias
 authorURL:
-tags: 
 source: 
 language: en
 uuid: 9f56bb07-d4a6-4a9d-b5b2-02dfaf765461

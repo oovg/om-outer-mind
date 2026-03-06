@@ -15,7 +15,6 @@ originalTitle: The Inverted City
 subtitle: Speculative P2P and the Urban Protocol Underground
 originalAuthor: Exeunt
 authorURL:
-tags: 
 source: 
 language: en
 uuid: 83b1636b-7db2-4204-8274-f17436b3a025

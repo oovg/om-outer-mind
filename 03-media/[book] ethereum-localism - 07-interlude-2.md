@@ -14,7 +14,6 @@ ai-ready: true
 subtitle:
 originalAuthor: Exeunt
 authorURL:
-tags: 
 source: 
 language: en
 uuid: cf31c127-3eda-4014-94d5-84f16996c029

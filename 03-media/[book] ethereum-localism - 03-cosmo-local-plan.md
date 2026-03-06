@@ -15,7 +15,6 @@ originalTitle: The Cosmo-Local Plan for our Next Civilization
 subtitle: Towards a convergence of the local bioregional resilient production efforts with the global coordination and 'Capital for the Commons' capacities of Web3
 originalAuthor: Michel Bauwens
 authorURL:
-tags: 
 source: 
 language: en
 uuid: eba51060-ea8d-451c-adaa-a26cb971db7e

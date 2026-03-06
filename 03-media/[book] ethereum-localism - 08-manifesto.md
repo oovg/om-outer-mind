@@ -15,7 +15,6 @@ originalTitle: The Rooted Society Manifesto
 subtitle:
 originalAuthor: AgroforestDAO
 authorURL:
-tags: 
 source: 
 language: en, pt-br
 uuid: 3bcc303b-50cc-44e4-85d2-93f1292e8c6d

@@ -15,7 +15,6 @@ originalTitle: "Neighbourhoods: Web3 Technologies and Progressive Alter-globalis
 subtitle:
 originalAuthor: Emaline Friedman
 authorURL:
-tags: 
 source: 
 language: en
 uuid: a6eca411-2ba0-4421-932e-22c84a1cef29

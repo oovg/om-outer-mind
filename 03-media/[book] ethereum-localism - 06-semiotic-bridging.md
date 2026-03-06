@@ -15,7 +15,6 @@ originalTitle: "Semiotic Bridging: a practice for Ethereum Localism and the Comm
 subtitle:
 originalAuthor: Giulio Quarta
 authorURL:
-tags: 
 source: 
 language: en
 uuid: bf7ae146-1e4b-4e57-9309-c22ae29e786b

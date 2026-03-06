@@ -15,7 +15,6 @@ originalTitle: On Open Civic Systems
 subtitle:
 originalAuthor:
 authorURL:
-tags: 
 source: 
 language: en
 uuid: 3a5f8d95-1c4c-422a-a6d3-d887629a0c6d

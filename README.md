@@ -1,2 +1,2 @@
-# om-commons
-The open mind of the open machine
+# om-outer-mind
+The outer mind of the open machine

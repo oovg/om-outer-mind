@@ -1,8 +1,4 @@
 
 # The Open Machine - Interactive Mind
 
-Welcome to the interiors of our mind.
-
-[[About]]
-[[Concepts - index]]
-[[Media - index]]
+Interact with the diverse minds of the Open Machine.

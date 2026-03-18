@@ -10,7 +10,8 @@ author:
 description: "The first major OPRG essay, arguing that underground cultures — S&M scenes, UK free party movements, LSD distribution networks — have emergently protocolized in response to legal prohibition and as a strategy against institutionalization, generating three characteristic values: mutual assumption of high agency, a robust culture of informed consent, and participatory/pluralistic aesthetics. Uses Bernard Stiegler's framework (politics is a question of aesthetics) to argue that institutional aesthetic conditioning has replaced genuine aesthetic experience, and that distributed ledger technologies offer the possibility of 'overgrounding' these underground values — formalizing without standardizing the high-agency, consent-based social production of the underground at scale. Concludes by naming this the crucial cultural challenge for web3: if crypto is introduced via extraction and consumerism, it will be eaten up; if introduced through its most aesthetically autonomous and high-agency cultural affiliates, its non-coercive ground will finally be appreciated."
 tags:
   - theme/open-protocols
-  - output/essay
+  - media
+  - media/essay
 ai-ready: true
 ---
 

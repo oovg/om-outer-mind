@@ -11,7 +11,8 @@ description: "The Open Protocol Research Group (Ven Gist, MacksWolf, Exeunt) sum
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 ## Speculative P2P and the Urban Protocol Underground

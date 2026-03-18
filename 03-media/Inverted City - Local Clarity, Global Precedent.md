@@ -6,7 +6,8 @@ updated: 2025-02-28
 author: [Kyle Smith]
 description: "An essay on the local-global dynamics of human governance and law, exploring how the cybernetic monopole moment of modern telecommunications has opened new possibilities for legal engineering, charter cities, and DAOs — arguing that industrial precedent and jurisprudential symmetries can help scale rare governance patterns without imposing top-down homogeneity."
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/distributed-agency
   - theme/open-protocols
   - domain/DAOs

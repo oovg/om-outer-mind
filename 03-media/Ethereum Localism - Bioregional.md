@@ -9,7 +9,8 @@ description: "Andrea Farias uses Barcelona's ongoing water crisis — managed ac
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _By Andrea Farias_

@@ -5,7 +5,8 @@ author:
 status: completed
 title: Ethereum, the Earth Computer
 tags:
-  - output/poster
+  - media
+  - media/poster
   - theme/assembly-theory
 created: 2025-12-01
 updated: 2025-12-02

@@ -9,7 +9,8 @@ description: "Nate Suits proposes Decentralized Public Administration Networks (
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _by Nate Suits_

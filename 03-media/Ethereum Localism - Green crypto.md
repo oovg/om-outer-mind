@@ -10,7 +10,8 @@ description: "Patrick Rawson and Louise Borreani preview the Green Crypto Handbo
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _by Patrick Rawson & Louise Borreani, Ecofrontiers.xyz_

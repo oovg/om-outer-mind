@@ -9,7 +9,8 @@ description: Marcus Barrick argues that organizing cosmo-locally requires a qual
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _by Marcus Barrick_

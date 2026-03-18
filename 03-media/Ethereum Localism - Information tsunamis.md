@@ -9,7 +9,8 @@ description: Crystal Street of JournoDAO diagnoses the collapse of local journal
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _By Crystal Street of JournoDAO_

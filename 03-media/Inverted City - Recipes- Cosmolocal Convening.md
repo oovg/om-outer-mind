@@ -6,7 +6,8 @@ updated: 2025-02-28
 author: [christypdx]
 description: "A recipe and detailed case study for organizing a cosmolocal convening that brings together hyperlocal and globally distributed participants, including planning logistics, funding strategies, and a firsthand account of the General Forum on Ethereum Localism held in Portland in October 2023."
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/distributed-agency
   - theme/consent-coordination
   - domain/DAOs

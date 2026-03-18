@@ -9,7 +9,8 @@ description: "A short lyrical interlude by Exeunt: the abstract models of econom
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _So we worshipped at the altar of model. It was like blowing the dust from the cover an old book that no one had bothered to engage, assuming it was all written, only to open it and find that the words were unsettled, ethereal, too secure in their unquestioned languishing to mean anything in particular at all. Money, institution, market, globe - the terms flickered like candle flame, half real._

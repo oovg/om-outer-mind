@@ -6,10 +6,11 @@ updated: 2025-02-21
 author: [Open Machine]
 description: "Index for the Ethereum Localism book, an anthology produced by Open Machine in collaboration with Gitcoin and Allo Capital exploring Ethereum-based coordination and localist governance."
 tags:
-  - "theme/open-protocols"
-  - "domain/blockchain"
-  - "domain/DAOs"
-  - "output/book"
+  - theme/open-protocols
+  - domain/blockchain
+  - domain/DAOs
+  - media
+  - media/book
 ai-ready: true
 ---
 View and Download as a PDF: [Ethereum Localism book](https://qxvqdga4v2uhlcgh7bvl5m6rukrhmesy6uzingqov76jw5miy3ka.arweave.net/hesBmByuqHWIx_hqvrPRoqJ2Elj1MoaaDq_8m3WIxtQ)

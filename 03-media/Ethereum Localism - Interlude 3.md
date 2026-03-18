@@ -9,7 +9,8 @@ description: "A short lyrical interlude by Exeunt on the meditative satisfaction
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 It’s difficult to describe the joy of being tired from working with your hands—work focused on the object at hand. Sculptors, nurses, gardeners, programmers—in the long hours, all the pollutants freeze away in the snowflake clarity of direct action. The crisp, meditative air of means and ends fused—a deep breath at last.

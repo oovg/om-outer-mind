@@ -9,7 +9,8 @@ description: AgroforestDAO's Rooted Society Manifesto, collaboratively written o
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 # Manifesto da Sociedade Enraizada

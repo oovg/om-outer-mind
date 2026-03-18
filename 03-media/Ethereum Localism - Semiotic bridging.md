@@ -9,7 +9,8 @@ description: "Giulio Quarta introduces semiotic bridging — the intentional pra
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _By Giulio Quarta, Director of the Commons Economy Roadmap_

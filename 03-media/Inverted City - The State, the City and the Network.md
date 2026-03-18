@@ -6,7 +6,8 @@ updated: 2025-02-28
 author: [Ven Gist]
 description: "An essay applying Deleuze and Guattari's concept of the state as an apparatus of capture to analyze the vertical/horizontal dynamics between state, city, and capital, and the potential of distributed ledger technologies — smart contracts, DAOs, decentralized governance — to invert capture dynamics and open new weapons of becoming for urban communities."
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/control-tech
   - theme/open-protocols
   - theme/distributed-agency

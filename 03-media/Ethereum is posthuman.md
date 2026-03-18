@@ -6,9 +6,10 @@ updated: 2024-11-30
 author: [Open Machine]
 description: "A manifesto-essay arguing that Ethereum's distributed, permissionless, emergent character reflects the posthuman insights of cybernetics, quantum mechanics, and systems theory — and that this positions it as the only credible ethical infrastructure for a historical moment when institutional humanism is collapsing into Silicon Valley's reactionary ultra-humanism. Uses Karen Barad, N. Katherine Hayles, and Weinbaum & Veitas to argue that agency, identity, and intelligence are inherently open-ended, relational, and multiscale — and that Ethereum's substance-ontological agnosticism makes it genuinely adequate to that reality. Proposes three aesthetic and marketing paradigms for a posthuman Ethereum: underground (high-agency, extitutional), interspecies (ethical access to the more-than-human world), and weird (engaging agential egregores, vibes, and exotic ontological entities made real through networked infrastructure)."
 tags:
-  - "domain/blockchain"
-  - "theme/open-protocols"
-  - "output/essay"
+  - domain/blockchain
+  - theme/open-protocols
+  - media
+  - media/essay
 ai-ready: true
 ---
 

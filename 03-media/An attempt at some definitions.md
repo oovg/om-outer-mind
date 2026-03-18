@@ -6,8 +6,9 @@ updated: 2025-07-18
 author: [Open Machine]
 description: "Exeunt's concise definitional essay introducing the trifecta at the heart of OPRG's work: open protocols (memetically robust, empirically open sociotechnical knowledge sets that circulate freely through the social and resist institutional capture), protocol undergrounds (informal communities where extitutional dynamics are dominant and institutional dynamics actively avoided), and extitutions (small, often ephemeral organizational bodies that use institutional legibility to protect open protocols while running distract for the informal networks they serve). Illustrated with historical examples — LSD distribution families, the Society of Janus, indie record labels — and argues this formula offers regen/crypto/dweb a model for new social forms that defer generously to the intersubjective genius of the publics."
 tags:
-  - "theme/open-protocols"
-  - "output/essay"
+  - theme/open-protocols
+  - media
+  - media/essay
 ai-ready: true
 ---
 

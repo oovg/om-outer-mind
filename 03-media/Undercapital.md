@@ -8,7 +8,8 @@ author:
 description: "OPRG's signature essay introducing undercapital as the economic space unlocked when virtual capital — the nondual generativity that underlies and sustains all forms of capital — is acknowledged, socialized, and brought into explicit economic design. Draws on Deleuze's virtual/actual distinction, scenes from free party culture, S&M dynamics, and appropriate technology movements to show how protocol undergrounds have historically managed wells of virtual experience as practical social assets. Argues that Ethereum enables a new design space: multicapital economic strategies for forms of relation that are illegible to states but structurally real, operating through consent, high agency, and aesthetic autonomy — an 'undercapitalist' counterpart to extractive financialization."
 tags:
   - theme/open-protocols
-  - output/essay
+  - media
+  - media/essay
 ai-ready: true
 ---
 

@@ -5,7 +5,8 @@ title: Open Letter to the Ethereum Community on the Topic of the Protocol Underg
 description: "A zine-format open letter from the Open Machine to the Ethereum community, arguing that genuine Ethereum Localism requires not missionary outreach but an ordeal of reciprocity — deep immersion in the 'coalitionary possible' of non-digital open-protocol cultures. Defines the protocol underground as a diverse spread of legally and culturally marginalized subcultures (hip hop, Detroit house, BDSM, LSD, psychonautica) that protocolized out of necessity, converging over decades on shared meta-protocols: distributed agency, aesthetic co-creation, actively affirmed consent, processuality against binary thinking, and open documentation against enclosure. Maps these meta-protocols onto Vitalik's alignment criteria (open source, open standard, decentralization, positive sum) to argue Ethereum is paradigmatically aligned with underground values — and that the community can build legitimacy and find users by showing up to underground communities with both tools and genuine curiosity. Closes with a high-stakes argument via Chaos Magick's Eight Circuit Brain: Ethereum, by equipping the protocol underground with Josh Stark's 'hardness,' can become civilizational infrastructure for exploring latent cognitive and social spaces foreclosed by institutional life."
 status: completed
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/open-protocols
 created: 2026-03-10
 updated: 2026-03-12

@@ -6,7 +6,8 @@ updated: 2025-02-28
 author: [christypdx]
 description: "A recipe and firsthand account for running a low-barrier local onboarding DAO (Fun DAO PDX) to introduce community members to web3 coordination tools and governance mechanisms through casual in-person gatherings and rotating voting experiments, with the goal of strengthening the local web3 network."
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/consent-coordination
   - domain/DAOs
   - domain/blockchain

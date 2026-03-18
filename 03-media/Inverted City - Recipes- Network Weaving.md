@@ -6,7 +6,8 @@ updated: 2025-02-28
 author: [christypdx]
 description: "A practical recipe-format guide to network weaving in local communities, covering strategies for nurturing aligned networks, organizing experimental local meetups, and building anti-fragile, decentralized community ecosystems resistant to capture and homogenization."
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/distributed-agency
   - theme/consent-coordination
   - domain/urban-design

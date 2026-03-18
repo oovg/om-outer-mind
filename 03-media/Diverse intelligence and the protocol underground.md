@@ -6,9 +6,10 @@ updated: 2026-01-18
 author: [Open Machine]
 description: "A speculative bridge between Michael Levin's diverse intelligence framework — which maps agency across biological scales from single cells to ecosystems operating in latent problem spaces — and the protocol underground, arguing that underground cultural formations can be understood as distributed intelligences probing latent spaces occluded by institutional mind-blindness. Proposes that the four meta-protocol values of the underground (high agency, open aesthetics, consent-forward, process-oriented) are expressions of 'computational ethics' — the operational values needed to robustly navigate an expanded reality. Closes with optimism: the stigmergic, anonymous intelligence of the underground is a collective and transtemporal entity riding its own self-fashioned vehicles into hyperspace, bypassing the institutional old guard as if it were never there."
 tags:
-  - "theme/diverse-intelligence"
-  - "theme/open-protocols"
-  - "output/essay"
+  - theme/diverse-intelligence
+  - theme/open-protocols
+  - media
+  - media/essay
 ai-ready: true
 ---
 The biologist Michael Levin proposes that the West suffers both culturally and institutionally from a kind of cognition-myopia, a _mind blindness_ with deep implications both practically (e.g. medical engineering) and ethically. These diverse intelligences, [he argues](https://www.researchgate.net/figure/Cognitive-agents-solve-problems-in-diverse-spaces-Intelligence-is-fundamentally-about_fig3_359441984), can be probed and identified in their full capacities by taking care to understand what latent problem spaces they may be exerting agency in: single cells navigating transcriptional space and chemical–metabolic gradients, tissues operating in anatomical morphospace via bioelectric signals that store and recall target forms, embryos correcting large-scale developmental errors across that morphospace, and whole organisms regenerating complex structures by converging on species-specific morphological attractors over time.

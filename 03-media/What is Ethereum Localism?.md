@@ -9,7 +9,8 @@ description: Exeunt's synthetic essay defining Ethereum Localism as a strategy o
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/essay
+  - media
+  - media/essay
 ai-ready: true
 ---
 

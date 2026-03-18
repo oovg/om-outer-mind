@@ -9,7 +9,8 @@ description: "Michel Bauwens argues for cosmo-localism as a third civilizational
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 ## Towards a convergence of the local bioregional resilient production efforts with the global coordination and 'Capital for the Commons' capacities of Web3

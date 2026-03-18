@@ -10,7 +10,8 @@ description: Benjamin Life and Kevin Owocki describe the Regen Hub as a civic ut
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _Benjamin Life and Kevin Owocki_

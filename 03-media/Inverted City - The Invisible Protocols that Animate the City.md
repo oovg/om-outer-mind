@@ -9,7 +9,8 @@ author:
   - exeunt
 description: Overview and framing document for the Open Protocol Research Group, outlining a research agenda to survey non-standard social production entities in cities, map their structural analogies to ecosystem DAOs, and explore how distributed ledger technologies could bootstrap a more pluralistic resource environment — expanding the Overton window of legible organizational and economic forms.
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/open-protocols
   - theme/extitutions
   - theme/distributed-agency

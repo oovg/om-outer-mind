@@ -9,7 +9,8 @@ description: "A short lyrical interlude by Exeunt on the experience of localism 
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 When you first get to the location, it may as well be sterile. Some rustling leaves at most. A few stars visible through the canopy and their light seems louder than the life in the surround. You sit quiet, though - you know better. Duration has a flavor if you know how to taste it. Slowly before you is conjured an alchemical process of 'vivification': soon, the landscape is lit up and bustling with life.

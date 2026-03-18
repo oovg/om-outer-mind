@@ -6,7 +6,8 @@ updated: 2025-02-28
 author: [BorrowLucid]
 description: "A short piece of speculative fiction depicting a traveling narrator finding embodied solace in a trust-based Potluck community space after a breakup — illustrating how attestation-based access, mutual aid, and spontaneous belonging might animate the urban commons of a near-future city."
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/distributed-agency
   - theme/consent-coordination
   - domain/urban-design

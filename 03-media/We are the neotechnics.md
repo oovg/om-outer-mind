@@ -8,7 +8,8 @@ author:
 description: An essay invoking Lewis Mumford's three-epoch theory of technological history (eotechnic → paleotechnic → neotechnic) to argue that Ethereum and decentralized production technologies represent the long-delayed political realization of the neotechnic revolution — an electricity-and-alloy era whose distributed, workshop-scale production logic was captured by centralized industrial power rather than realized. Aligns Vitalik's d/acc (defensive accelerationism) thesis with Mumford's vision of a marriage of town and country, finding living evidence in Portland's underground maker infrastructure (cargo bike builders, hackerspaces, CNC labs, welding shops). Calls for a Quadratic Funding round to catalyze web3 × decentralized production research and bridge the neotechnic underground with coordination infrastructure.
 tags:
   - theme/open-protocols
-  - output/essay
+  - media
+  - media/essay
 ai-ready: true
 ---
 

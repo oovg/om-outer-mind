@@ -9,7 +9,8 @@ description: "An excerpt from the Open Civics thesis presenting stigmergy, polyc
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _An Excerpt From Towards An Open Civics_

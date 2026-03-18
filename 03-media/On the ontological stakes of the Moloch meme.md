@@ -9,7 +9,8 @@ description: "A critical expansion of the Moloch/coordination failure framework 
 tags:
   - theme/distributed-agency
   - domain/blockchain
-  - output/essay
+  - media
+  - media/essay
 ai-ready: true
 ---
 

@@ -9,7 +9,8 @@ description: "Scott Morris draws on the historical pattern of communities invent
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _By Scott Morris (x Claude 3.5 Sonnet)_

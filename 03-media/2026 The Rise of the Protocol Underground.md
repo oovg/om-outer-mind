@@ -6,8 +6,9 @@ updated: 2026-01-06
 author: [Open Machine]
 description: "A wide-ranging essay arguing that the proliferation of open protocols — across digital, social, biological, and experiential domains — defines 2026, and that scaling them ethically requires the cultural values of the protocol underground: high agency, open aesthetics, consent-forward coordination, and process orientation. Argues that LLMs have largely solved the circulation problem for practical knowledge, but the deeper task is expanding the ontological and empirical openness of what gets protocolized — including territories of intensive non-normal experience (psychonautic, somatic, social-configurational) that institutions habitually suppress. Proposes ethnographic and phenomenological mapping of these territories, and retroactive public funding mechanisms to support their exploration, as the critical cultural accompaniment to the communications revolution."
 tags:
-  - "theme/open-protocols"
-  - "output/essay"
+  - theme/open-protocols
+  - media
+  - media/essay
 ai-ready: true
 ---
 

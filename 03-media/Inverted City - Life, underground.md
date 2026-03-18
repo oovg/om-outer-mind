@@ -6,7 +6,8 @@ updated: 2025-02-28
 author: [P Rose]
 description: "A short speculative poem imagining a future underground city where communities live in shared, precious spaces — reflecting on collective memory, the alienation of above-ground urban life, and the enduring echo of community spirit built together in constrained, intimate quarters."
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/immanence
   - domain/urban-design
 ai-ready: true

@@ -9,7 +9,8 @@ description: An essay introducing noöpunk as an aesthetic and economic movement
 tags:
   - theme/diverse-intelligence
   - theme/cognitive-sovereignty
-  - output/essay
+  - media
+  - media/essay
 ai-ready: true
 ---
 

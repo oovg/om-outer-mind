@@ -8,7 +8,8 @@ author:
 description: A philosophical deepening of the Undercapital concept, reframing 'the virtual' at its core as 'a generative experience of nondual potentiality' — the felt sense that 'anything was possible' reported from certain parties, intimate encounters, and collective creative moments — demystified from its religious exile and treated as a democratizable practical asset. Uses Gregory Landua's Eight Forms of Capital to argue that each form has a virtual dimension that recedes into itself beyond instrumentalization, and that undercapital is what happens when this 'silent partner' is socially acknowledged rather than captured by elites. Introduces Austin Wade Smith's concept of 'undualing' (reanimating diverse lifeworlds against forces of singularization) and proposes intent-centric web3 applications, feral computing, and Field Ontology Method as vagabond technologies for undercapital design.
 tags:
   - theme/open-protocols
-  - output/essay
+  - media
+  - media/essay
 ai-ready: true
 ---
 # Undercapital *Redux*: Economic Design 'Underneath the World'

@@ -9,7 +9,8 @@ description: Emaline Friedman situates the Neighbourhoods (Holochain) project wi
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _By Emaline Friedman_

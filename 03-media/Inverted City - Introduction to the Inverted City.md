@@ -7,7 +7,8 @@ author:
   - exeunt
 description: Editorial introduction to the Inverted City zine, framing the publication as an extension of the General Forum on Ethereum Localism and setting out the premise of the city as an open-ended, cybernetically entangled system of possibilities for postcapitalist experimentation.
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/open-protocols
   - theme/distributed-agency
   - domain/blockchain

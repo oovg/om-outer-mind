@@ -10,7 +10,8 @@ description: "The opening essay of the Ethereum Localism anthology, framing the 
 tags:
   - theme/open-protocols
   - domain/blockchain
-  - output/book
+  - media
+  - media/book
 ai-ready: true
 ---
 _21.2.2025_

@@ -7,7 +7,8 @@ author:
   - Ven Gist
 description: A game-theoretic reframing of unrequited love as a Prisoners' Dilemma — where mutual vulnerability is the only path to mutual love. The essay introduces the Lovers' Dilemma, a payoff matrix for romantic cooperation and defection, and simulates three strategy matchups (DOPYCAT vs DOPYCAT, DOPYCAT vs COOPYCAT, COOPYCAT vs COOPYCAT) to show why cooperate-first strategies dramatically outperform defect-first ones. Draws on Axelrod's cooperation theory to argue that being "nice," reciprocating honestly, and designing environments that reward openness are the core mechanics behind positive-sum connection — and, by extension, civilizational survival past the Great Filter.
 tags:
-  - output/essay
+  - media
+  - media/essay
   - theme/game-theory
 ai-ready: true
 ---

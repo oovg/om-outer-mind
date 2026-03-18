@@ -7,7 +7,8 @@ author:
   - exeunt
 description: A philosophical essay set in Portland, Oregon weaving together flat ontology, quantum physics, mycology, urban infrastructure, and distributed ledger technology as lenses for understanding the city as a cosmological plateau of entangled, plural materiality — arguing that technologies like the distributed ledger extend the city's tradition of anonymous, rude productivity beyond any hierarchy of being.
 tags:
-  - output/zine
+  - media
+  - media/zine
   - theme/immanence
   - theme/open-protocols
   - domain/blockchain

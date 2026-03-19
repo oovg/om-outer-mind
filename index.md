@@ -1,4 +1,24 @@
+---
 
+title: "Interactive Mind"
+
+status: completed
+
+created: 2026-03-12
+
+updated: 2026-03-18
+
+author: [Open Machine]
+
+description: "The Open Machine is a cultural research studio that invokes unlikely alliances across technology and culture to advance ethical, open forms of coordination. We conduct research to produce media, events, and frameworks that capture and project the patterns that emerge."
+
+tags:
+
+- index
+
+ai-ready: true
+
+---
 # The Open Machine - Interactive Mind
 
 ### [[About the Open Machine|Explore]]

@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Carse's influential distinction between finite games (played to win, with fixed rules and bounded time) and infinite games (played to continue play, with rules that evolve to sustain participation). Provides a foundational frame for OM's analysis of institutional vs. extitutional logics — institutions play finite games, protocol undergrounds play infinite ones."
 tags:
+  - reference
   - theme/open-protocols
   - theme/extitutions
 ai-ready: true

@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Massumi's foundational work on affect, movement, and the virtual — arguing that sensation and cultural experience operate primarily through intensity and transition rather than coded meaning. Provides the philosophical grounding for OM's treatment of the virtual as a real economic and political force, and for the claim that undercapital (the 'that night it felt like anything was possible' phenomenology) is a materially consequential asset rather than epiphenomenal surplus."
 tags:
+  - reference
   - theme/immanence
   - theme/processuality
 ai-ready: true

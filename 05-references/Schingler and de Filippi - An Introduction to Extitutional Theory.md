@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "The foundational paper introducing 'extitutional theory' — arguing that all institutions have an extitutional outside, an informal network of relationships and practices that sustains them but cannot be institutionalized without being destroyed. OM adapts and extends this framework, treating extitutions as discrete entities rather than merely the undersides of institutions."
 tags:
+  - reference
   - theme/extitutions
   - theme/open-protocols
   - domain/DAOs

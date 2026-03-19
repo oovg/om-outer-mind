@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "2026 paper by Ricard Solé, Luis Seoane, and Michael Levin (among others) proposing a multidimensional conceptual framework for mapping cognitive processes across natural, artificial, and hybrid systems — from cells to LLMs — based on organizational and informational characteristics. Directly relevant to OM's Diverse Intelligence research and the concept of diverse synthetic intelligences."
 tags:
+  - reference
   - theme/diverse-intelligence
   - domain/AI
 ai-ready: true

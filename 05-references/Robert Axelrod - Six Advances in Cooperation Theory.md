@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Axelrod's 2000 review paper synthesizing two decades of cooperation theory following his landmark Prisoner's Dilemma tournaments — identifying six key advances in understanding how cooperation emerges and persists among self-interested actors without central authority. Referenced in OM's Lovers' Dilemma essay and the broader analysis of coordination without institutional coercion."
 tags:
+  - reference
   - theme/consent-coordination
   - domain/DAOs
 ai-ready: true

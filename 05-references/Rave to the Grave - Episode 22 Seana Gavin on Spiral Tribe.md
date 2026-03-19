@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Podcast episode featuring Seana Gavin in conversation about Spiral Tribe, the UK free party sound system collective central to OM's case study of extitutional coordination under legal pressure. Documents firsthand experience of how the ordeal of attending clandestine parties functioned as a selection mechanism ensuring full participation and high-agency attendance."
 tags:
+  - reference
   - theme/open-protocols
   - theme/extitutions
 ai-ready: true

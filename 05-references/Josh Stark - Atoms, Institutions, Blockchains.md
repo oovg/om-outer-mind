@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Stark's essay arguing that blockchains represent a third type of coordination mechanism alongside atoms (physical objects and their properties) and institutions (human agreements backed by social enforcement) — one that achieves coordination through mathematical and computational properties rather than through physical force or social trust. Referenced in OM's Open Letter to the Ethereum Community."
 tags:
+  - reference
   - theme/open-protocols
   - domain/blockchain
 ai-ready: true

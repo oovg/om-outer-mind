@@ -6,6 +6,7 @@ updated: 2026-03-17
 author: [Open Machine]
 description: "Axelrod's landmark 1984 study demonstrating through iterated Prisoner's Dilemma computer tournaments that cooperation can emerge and stabilize among self-interested actors without central authority or enforcement — with tit-for-tat proving the most robust strategy. The game-theoretic baseline against which OM develops its Moloch critique: cooperation theory is necessary but insufficient for problems whose roots are ontological rather than strategic."
 tags:
+  - reference
   - theme/consent-coordination
   - domain/DAOs
 ai-ready: true

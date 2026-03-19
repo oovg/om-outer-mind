@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Buterin's essay arguing that legitimacy — the broadly accepted belief that a decision or allocation is correct and should be honored — is the most important scarce resource in decentralized systems, more fundamental than technical security or economic incentives. Foundational for understanding how Ethereum achieves non-coercive coordination and why OM treats Ethereum's 'thermodynamic legitimacy' as a key extitutional property."
 tags:
+  - reference
   - theme/open-protocols
   - domain/blockchain
   - domain/DAOs

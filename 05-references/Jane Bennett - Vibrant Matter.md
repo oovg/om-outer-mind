@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Bennett's theory of 'vibrant matter' and vital materialism — arguing that nonhuman things (electricity grids, food, metal, trash) have a kind of agency or thing-power that participates in events and politics alongside human actors. Foundational for OM's flat ontology, posthumanism, and the treatment of nonhuman entities as genuine participants in protocol life."
 tags:
+  - reference
   - theme/immanence
   - theme/diverse-intelligence
   - theme/processuality

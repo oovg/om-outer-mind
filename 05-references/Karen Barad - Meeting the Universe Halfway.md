@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Barad's development of agential realism — a philosophy drawn from quantum physics, feminist theory, and science studies that dissolves the distinction between observer and observed, representation and reality. Introduces the key concept of 'intra-action' (vs. interaction): phenomena constitute their components through their encounter rather than pre-existing it. Grounds OM's flat ontology, field ontology method, and the treatment of protocols as constitutive rather than merely descriptive."
 tags:
+  - reference
   - theme/immanence
   - theme/processuality
   - theme/diverse-intelligence

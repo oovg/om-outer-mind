@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Manifesto by game developer Robin Arnott proposing 'technodelic' as a design genre that uses digital technology to induce meditative, hypnotic, and ceremonial states — framing screen-based experience as a vehicle for consciousness alteration and collective presence rather than for entertainment or productivity."
 tags:
+  - reference
   - theme/cognitive-sovereignty
   - domain/AI
   - domain/AR-VR

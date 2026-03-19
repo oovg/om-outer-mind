@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Buterin's essay proposing the 'revenue evil curve' — a framework for evaluating revenue models by how much harm they require per unit of revenue generated. Argues that the least 'evil' revenue comes from positive-sum interventions in markets that are themselves extractive, rather than from directly charging users for public goods. Referenced in OM's Ethereum Localism work."
 tags:
+  - reference
   - theme/open-protocols
   - domain/blockchain
   - domain/DAOs

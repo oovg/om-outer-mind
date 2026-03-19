@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Escobar's argument for 'autonomous design' — design practices that work from within communities and their own ontological commitments, against the universalizing design logic of Western modernity. Develops the concept of 'ontological design' (design that makes worlds, not just objects) and argues for a pluriverse of coexisting worlds rather than a single universal 'world.' Supports OM's commitment to formalization without standardization and ontological openness."
 tags:
+  - reference
   - theme/immanence
   - theme/open-protocols
   - theme/distributed-agency

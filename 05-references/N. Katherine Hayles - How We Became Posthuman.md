@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Hayles traces the historical construction of the 'posthuman' subject through cybernetics, information theory, and artificial life research — arguing that the liberal humanist subject was always a fiction, and that cybernetics reveals consciousness and agency as distributed, embodied, and emergent rather than centralized. Key reference for OM's posthumanism and the argument that Ethereum is posthuman infrastructure."
 tags:
+  - reference
   - theme/diverse-intelligence
   - theme/immanence
   - domain/AI

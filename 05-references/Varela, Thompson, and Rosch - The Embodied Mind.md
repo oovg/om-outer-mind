@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Foundational 1991 text in enactive cognitive science by Francisco Varela, Evan Thompson, and Eleanor Rosch, proposing that cognition is not computation on internal representations but the enactment of a world through embodied action and structural coupling with the environment. Grounds OM's understanding of distributed cognition and neurophenomenology."
 tags:
+  - reference
   - theme/diverse-intelligence
 ai-ready: true
 ---

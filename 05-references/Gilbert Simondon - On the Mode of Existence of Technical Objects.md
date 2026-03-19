@@ -6,6 +6,7 @@ updated: 2026-03-17
 author: [Open Machine]
 description: "Simondon's philosophical account of technical objects as entities with their own mode of becoming — undergoing genuine individuation through 'concretization' and generating an 'associated milieu' — arguing that modern culture's alienation from technical objects is a form of enclosure, and that genuine participation in technical life requires understanding how objects individuate. Foundational for OM's concepts of substrate, open protocol evolution, and the claim that high-agency requires technical literacy, not just technical use."
 tags:
+  - reference
   - theme/immanence
   - theme/open-protocols
   - theme/distributed-agency

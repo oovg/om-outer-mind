@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Stark's essay identifying 'hardness' — the property of being difficult to change, reverse, or attack — as Ethereum's distinctive and most valuable property. Hardness enables the trust-minimized coordination that makes Ethereum useful for contexts where social trust is insufficient. Referenced in OM's Ethereum Localism Introduction."
 tags:
+  - reference
   - theme/open-protocols
   - domain/blockchain
 ai-ready: true

@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Levin's paper introducing the 'cognitive light cone' concept — the temporal and spatial scope within which an agent can model and act. Larger cognitive light cones enable longer-range planning and more complex agency; scaling cognitive light cones is the primary mechanism by which biological complexity increases. Used by OM to frame the protocol underground as a collective organism expanding its cognitive light cone through distributed, stigmergic activity."
 tags:
+  - reference
   - theme/diverse-intelligence
   - theme/distributed-agency
 ai-ready: true

@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Thesis Commons preprint by David R. Weinbaum (Vrije Universiteit Brussel) on abstraction layers as a mechanism of open-ended intelligence — proposing that the capacity of distributed, apparently blind processes to navigate complex environments arises from the coordinated evasion-capacity of abstraction layers discovered through open-ended exploration."
 tags:
+  - reference
   - theme/diverse-intelligence
 ai-ready: true
 ---

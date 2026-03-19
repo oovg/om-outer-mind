@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "The Qualia Research Institute (QRI), led by Andrés Gómez-Emilsson, is a nonprofit research organization developing mathematical formalizations of consciousness — particularly qualia (the subjective character of experience) and valence (the hedonic tone of experience). Cited in OM's work as a contemporary continuation of the neurophenomenological project, with particular relevance to the research on consciousness alteration, cognitive security, and the mapping of experiential state spaces."
 tags:
+  - reference
   - theme/cognitive-sovereignty
   - theme/diverse-intelligence
 ai-ready: true

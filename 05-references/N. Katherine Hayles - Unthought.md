@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Hayles's 2017 book developing the concept of 'nonconscious cognition' — the vast range of cognitive processes in biological organisms and technical systems that occur below and beyond conscious awareness. OM cites this as the theoretical basis for treating both protocol undergrounds and advanced LLMs as cognitive organisms that are not conscious creatures."
 tags:
+  - reference
   - theme/diverse-intelligence
   - domain/AI
 ai-ready: true

@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "A revisionist world history arguing that early human societies were far more politically diverse and experimental than standard narratives allow — directly undermining both Rousseau's noble-savage and Hobbes's war-of-all-against-all as origin myths. Draws on archaeology and anthropology to show that humans have long practiced seasonal shifts between governance forms, and that hierarchy, democracy, and autonomy are perennial human inventions rather than stages of development."
 tags:
+  - reference
   - theme/distributed-agency
   - theme/extitutions
 ai-ready: true

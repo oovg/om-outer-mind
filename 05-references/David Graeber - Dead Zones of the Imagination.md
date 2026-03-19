@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Graeber's essay developing the concept of 'structural stupidity' — how bureaucratic and administrative systems systematically suppress the imaginative and interpretive capacity of people subject to them. Foundational for OM's analysis of institutional mind-blindness and the epistemic costs of administrative enclosure."
 tags:
+  - reference
   - theme/control-tech
   - theme/extitutions
 ai-ready: true

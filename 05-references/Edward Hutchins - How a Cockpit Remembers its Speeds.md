@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Hutchins's landmark paper demonstrating that cognitive processes are distributed across human actors, artifacts, and environments rather than contained within individual minds — using airline cockpit operations as a case study. Foundational for OM's distributed cognition framework and the claim that protocol undergrounds function as collective cognitive systems."
 tags:
+  - reference
   - theme/diverse-intelligence
   - theme/distributed-agency
 ai-ready: true

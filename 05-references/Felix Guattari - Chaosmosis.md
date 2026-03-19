@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Guattari's late ethico-aesthetic philosophy, developing the concept of chaosmosis — the productive, creative chaos through which new existential territories, modes of subjectification, and forms of life emerge. Proposes an 'aesthetic paradigm' for ethics and politics: the creation of new possible worlds as the primary form of emancipatory practice. Core reference for OM's immanence framework and the protocol underground's relationship to aesthetic self-determination."
 tags:
+  - reference
   - theme/immanence
   - theme/processuality
 ai-ready: true

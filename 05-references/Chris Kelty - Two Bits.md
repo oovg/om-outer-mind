@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Cultural anthropologist Chris Kelty's 2008 ethnographic study of free software as a 'recursive public' — a community that constitutes and reconstitutes itself through the very infrastructure it builds and shares. Identified in OM's corpus as the theoretical source for the lineage-building connecting open protocolization to the free software movement."
 tags:
+  - reference
   - theme/open-protocols
   - domain/FOSS
 ai-ready: true

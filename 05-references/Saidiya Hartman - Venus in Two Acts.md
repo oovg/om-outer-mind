@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Hartman's methodological essay on 'critical fabulation' — the practice of writing about those whose lives have been rendered unrepresentable by the archive of slavery, working at the limits of what can be known. Grounds OM's Afropessimist references and the critique of the Moloch frame's inability to address ontological rather than merely coordination-level violence."
 tags:
+  - reference
   - theme/distributed-agency
   - theme/immanence
 ai-ready: true

@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Thompson's 2007 book extending the enactive approach of The Embodied Mind into biology and phenomenology, arguing that life and mind share the same deep organizational logic — autopoiesis — and that consciousness arises from the dynamic interplay of organism and world. Cited in OM's work on neurophenomenology and the cognitive stakes of underground experience."
 tags:
+  - reference
   - theme/diverse-intelligence
 ai-ready: true
 ---

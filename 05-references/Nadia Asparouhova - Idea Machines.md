@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Asparouhova's analysis of 'idea machines' — communities organized around the production and propagation of a coherent set of ideas, functioning more like movements or research programs than organizations. Provides a useful frame for understanding how OM and the Open Protocol Research Group function as extitutional knowledge-production communities."
 tags:
+  - reference
   - theme/open-protocols
   - theme/extitutions
 ai-ready: true

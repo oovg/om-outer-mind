@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Short essay by Giorgio Agamben defining 'form-of-life' as a life that can never be separated from its form — a life in which what is at stake is always the mode of living itself. Cited in OM's work as a philosophical warrant for the underground's commitment to modes of existence that cannot be enclosed or reduced to bare life."
 tags:
+  - reference
   - theme/immanence
   - theme/cognitive-sovereignty
 ai-ready: true

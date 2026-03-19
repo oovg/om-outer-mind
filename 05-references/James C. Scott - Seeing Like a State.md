@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Scott's analysis of how states and large-scale institutions systematically simplify, legibilize, and rearrange social and natural complexity in ways that destroy the local, practical knowledge (metis) that makes systems work. Essential background for OM's treatment of institutional mind-blindness, administrative enclosure, and why underground illegibility to institutions is a structural survival feature rather than a failure."
 tags:
+  - reference
   - theme/control-tech
   - theme/open-protocols
   - theme/extitutions

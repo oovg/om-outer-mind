@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Carson's mutualist analysis of the emerging decentralized production economy — arguing that cheap, open-source desktop fabrication, software, and networked coordination are reversing the centralizing logic of industrial capitalism. Relevant to OM's neotechnics frame and the argument that distributed ledger technologies continue a longer history of decentralizing infrastructure."
 tags:
+  - reference
   - theme/open-protocols
   - theme/control-tech
   - domain/FOSS

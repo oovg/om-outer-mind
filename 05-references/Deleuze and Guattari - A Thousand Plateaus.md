@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "The second volume of Capitalism and Schizophrenia — a sprawling anti-systematic philosophy of multiplicity, becoming, and rhizomatic organization. Provides OM's key conceptual vocabulary: rhizome vs. arborescence, assemblage, the virtual/actual distinction, smooth vs. striated space, and nomadic vs. state thought. Foundational for the protocol underground's theoretical architecture."
 tags:
+  - reference
   - theme/immanence
   - theme/distributed-agency
   - theme/processuality

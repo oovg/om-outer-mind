@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Mumford's landmark 1934 history and philosophy of technology, proposing three epochs of technological development — eotechnic, paleotechnic, neotechnic — and arguing that the neotechnic era (electricity and light alloys) carries the potential for decentralized, regional, life-serving production. OM uses the neotechnic frame to situate Ethereum and DLTs as the continuation of a longer history of distributed infrastructure."
 tags:
+  - reference
   - theme/open-protocols
   - theme/immanence
   - domain/blockchain

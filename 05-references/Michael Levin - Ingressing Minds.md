@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "2025 OSF preprint by Michael Levin proposing that biological outcomes result from a triad of heredity, environment, and 'ingressing patterns' from a structured non-physical space — accounting for the surprising competencies of apparently blind processes that standard evolutionary accounts cannot explain."
 tags:
+  - reference
   - theme/diverse-intelligence
 ai-ready: true
 ---

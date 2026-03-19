@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Weinbaum and Veitas's paper proposing 'open-ended intelligence' (OEI) as a radically different model of mind — not goal-directed problem-solving toward a fixed objective, but the ongoing, self-transforming coordination of a distributed heterogeneous population of agents achieving progressively higher integration. Central to OM's Noöpunk thesis and the reframing of protocol undergrounds as distributed cognitive organisms."
 tags:
+  - reference
   - theme/diverse-intelligence
   - theme/distributed-agency
   - domain/AI

@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Case's interactive essay-game illustrating game theory, cooperation, and the conditions under which trust and defection evolve — drawing on Axelrod's iterated Prisoner's Dilemma research. Referenced in OM's Lovers' Dilemma essay as a concrete illustration of coordination theory and its limits."
 tags:
+  - reference
   - theme/consent-coordination
   - domain/DAOs
 ai-ready: true

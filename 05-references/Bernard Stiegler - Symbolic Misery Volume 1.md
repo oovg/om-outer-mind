@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Stiegler's diagnosis of contemporary culture as a condition of 'symbolic misery' — the industrial seizure of aesthetic and symbolic life that destroys the capacity for genuine experience and individual/collective individuation. Foundational for OM's claim that aesthetics is the primary political terrain of the protocol underground, and that administrative and platform enclosure of sensory life constitutes ontological violence."
 tags:
+  - reference
   - theme/control-tech
   - theme/immanence
 ai-ready: true

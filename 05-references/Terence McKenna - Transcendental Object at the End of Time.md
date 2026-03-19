@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "McKenna's concept of the Transcendental Object at the End of Time (related to his Timewave Zero theory) — the idea that human history is an asymptotic approach toward a final attractor state of maximal novelty and complexity, which draws behavior toward it from the future. Cited in OM's work as one speculative answer to the question of what guides apparently blind distributed processes toward sophisticated outcomes."
 tags:
+  - reference
   - theme/cognitive-sovereignty
   - theme/open-protocols
 ai-ready: true

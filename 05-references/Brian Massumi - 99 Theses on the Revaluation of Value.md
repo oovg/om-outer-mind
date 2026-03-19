@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Massumi's postcapitalist manifesto arguing that value is fundamentally a processual, affective phenomenon irreducible to exchange or quantification — and that a genuine revaluation of value must begin from the intensive, experiential, and relational dimensions of collective life. Central to OM's undercapital thesis."
 tags:
+  - reference
   - theme/processuality
   - theme/open-protocols
 ai-ready: true

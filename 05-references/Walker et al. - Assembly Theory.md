@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Sara Walker, Leroy Cronin, and collaborators' paper introducing Assembly Theory — a framework for quantifying the complexity of objects by measuring the minimum number of steps needed to construct them from basic components, with higher assembly index indicating more 'memory' of past selection. Relevant to OM's treatment of information as physical and the diverse intelligence framework."
 tags:
+  - reference
   - theme/diverse-intelligence
   - theme/processuality
 ai-ready: true

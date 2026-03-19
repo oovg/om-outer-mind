@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Carson's analysis of how regulatory and legal institutions function primarily as instruments of incumbent protection and enclosure rather than public welfare — and how emerging decentralized technologies enable counter-institutional resistance by routing around regulatory capture. Referenced in OM's critique of Moloch-frame thinking and institutional political economy."
 tags:
+  - reference
   - theme/control-tech
   - theme/open-protocols
   - domain/FOSS

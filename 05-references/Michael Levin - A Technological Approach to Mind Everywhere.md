@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Levin's major theoretical paper proposing a 'technological approach to mind everywhere' (TAME) — arguing for a deflationary, substrate-agnostic account of cognition that extends minimal forms of agency and intelligence to all biological entities, not just neural organisms. The foundation for OM's Diverse Intelligence frame and the reframing of protocol undergrounds as non-neural cognitive organisms."
 tags:
+  - reference
   - theme/diverse-intelligence
   - theme/distributed-agency
   - domain/AI

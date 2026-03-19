@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Sexton and Martinot's essay arguing that police violence against Black people in the US is not an aberration but the structural avant-garde of white supremacy — the leading edge of a systematic social order. Part of OM's Afropessimist references and the critique that some forms of social failure cannot be addressed by coordination mechanisms alone."
 tags:
+  - reference
   - theme/control-tech
   - theme/distributed-agency
 ai-ready: true

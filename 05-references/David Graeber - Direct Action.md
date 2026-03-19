@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "An ethnographic and theoretical account of the direct action movement — its culture, organizational protocols, and internal logics — written from Graeber's participant-observer position inside the global justice movement. Central to OM's interest in how decentralized communities develop consent culture, affinity-group structures, and open protocols outside institutional frameworks."
 tags:
+  - reference
   - theme/open-protocols
   - theme/consent-coordination
   - theme/distributed-agency

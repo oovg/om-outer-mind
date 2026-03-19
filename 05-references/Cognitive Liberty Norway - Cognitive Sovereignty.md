@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Public education document from Cognitive Liberty Norway defining cognitive sovereignty as the right of individuals and collectives to autonomy over their own cognitive processes. Cited in OM's work as framing the political stakes of emerging technologies as fundamentally a question of who controls human and collective perception, reasoning, and attention."
 tags:
+  - reference
   - theme/cognitive-sovereignty
   - domain/AI
 ai-ready: true

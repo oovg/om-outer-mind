@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Smith's essay on 'feral computing' — computational practices and architectures that have escaped or been abandoned by their original institutional context and now operate autonomously, developing their own logics and communities. Relevant to OM's treatment of autonomous protocol entities and the posthuman dimensions of Ethereum."
 tags:
+  - reference
   - theme/open-protocols
   - theme/diverse-intelligence
   - domain/FOSS

@@ -7,6 +7,7 @@ author:
   - Open Machine
 description: "Austin's 1998 synthesis of neurophysiology and Zen meditation practice, establishing empirical links between contemplative states and brain function. Cited in OM's work as carrying on the neurophenomenological project — grounding the study of consciousness alteration in STEM while maintaining fidelity to the experiential specificity of meditative states."
 tags:
+  - reference
   - theme/cognitive-sovereignty
   - theme/diverse-intelligence
 ai-ready: true

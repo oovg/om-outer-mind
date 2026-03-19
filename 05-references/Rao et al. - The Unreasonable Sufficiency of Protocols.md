@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Venkatesh Rao and collaborators' essay from Summer of Protocols exploring why protocols — shared rules and conventions — accomplish far more coordination than their apparent simplicity would suggest. Relevant to OM's open protocols framework and the theoretical underpinning for why minimal, memetic protocols can scale underground values."
 tags:
+  - reference
   - theme/open-protocols
   - theme/consent-coordination
 ai-ready: true

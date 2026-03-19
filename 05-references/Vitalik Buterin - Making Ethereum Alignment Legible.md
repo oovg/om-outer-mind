@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Buterin's 2024 essay on how to make explicit the value alignment that underlies Ethereum's development — distinguishing 'Ethereum-aligned' projects from those that merely use Ethereum's infrastructure while working against its values. Relevant to OM's Ethereum Localism work and the question of what it means for a technology to be structurally adequate to extitutional values."
 tags:
+  - reference
   - theme/open-protocols
   - domain/blockchain
   - domain/DAOs

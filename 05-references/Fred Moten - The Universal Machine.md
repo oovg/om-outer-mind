@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "The third volume of Moten's consent not to be a single being trilogy, pursuing his theory of the undercommons — the fugitive, generative sociality of those excluded from liberal political subjecthood — through readings of Black radical tradition, performance, and the philosophy of blackness. Key reference for OM's ontological politics and the Moloch critique."
 tags:
+  - reference
   - theme/distributed-agency
   - theme/extitutions
   - theme/immanence

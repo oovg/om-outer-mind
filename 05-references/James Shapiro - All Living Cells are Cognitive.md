@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Shapiro's paper arguing that all living cells exhibit cognition — the ability to sense, process information, and act purposively — making cognition a universal property of life rather than a specialized neural function. Part of OM's Diverse Intelligence framework and the grounding for treating immanent social forms as genuinely cognitive organisms."
 tags:
+  - reference
   - theme/diverse-intelligence
 ai-ready: true
 ---

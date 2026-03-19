@@ -6,6 +6,7 @@ updated: 2026-03-15
 author: [Open Machine]
 description: "Kelly's typology of generative vs. extractive ownership designs — identifying the structural features that make some forms of ownership life-serving (for many generations) rather than purely profit-extracting. Referenced in OM's cosmo-local and Ethereum Localism work as a framework for understanding how ownership structures determine whether a community's wealth circulates locally or is extracted."
 tags:
+  - reference
   - theme/open-protocols
   - theme/distributed-agency
   - domain/DAOs

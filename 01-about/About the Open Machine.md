@@ -19,11 +19,7 @@ Our work draws on the concept of immanence -- the inherent creative capacity of 
 
 As a cultural research studio, our goal is to strategically intervene in tech culture in order to incite new networks and coalitions that share immanent values. This means instigating dialogue and cross-pollination between a diverse range of technologists, theorists, artists - from permaculturalists to programmers to community organizers - in order to broaden our definition of technology and rediscover an integrated sense of its most ethical form.
 
-[
-
-View and Support our 2026 Programme →
-
-](https://theopenmachine.net/programme)
+[View and Support our 2026 Programme →](https://theopenmachine.net/programme)
 
 ## Media
 
